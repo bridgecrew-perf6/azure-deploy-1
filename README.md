@@ -1,6 +1,7 @@
 # azure-deploy
 
 Node Hello World app deployed to Azure Cloud using Azure Container Registry with Github Actions configured to build and deploy on each push to github repo.
+Frontend deployed using dockerhub to explore different options.
 
 Backend (Node):
 https://helloworldebiznes.azurewebsites.net/
