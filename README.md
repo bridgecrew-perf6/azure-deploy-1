@@ -9,3 +9,4 @@ Frontend (React):
 https://hwclient.azurewebsites.net/
 
 Disclaimer: Buttons are not setup yet. Basic text from backend printed just to see if deployed backend and frontend are comunicating correctly. 
+Frontend from Oauth2.0 task: https://github.com/wmaterna/Oauth2.0/tree/master/oauth_frontend
